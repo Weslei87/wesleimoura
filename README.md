@@ -1,27 +1,26 @@
-# Bem Vindo ao Meu Portifólio
+<h1 align="center">Olá 👋, Eu sou Weslei Moura</h1>
+<h3 align="center">Apaixonado por transformar dados em informações para o Negócios</h3>
 
-Sou Weslei e como Analista de dados, aplico metodologias ágeis como DMAIC, Scrum e ETL para elevar a eficiência operacional do negócio. Com a utilização de fermentas de análise de dados tais como; Excel, SQL, Python e Power BI, com foco na otimização dos processos e redução de custos, sempre transformando dados em informação para crescimento do negócio.
-          
-                     
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=weslei87&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+- 🔭 Atualmente estou trabalhando com analise e visualização de dados **Lider der Projeto - Scrum Master (student)**
 
-# Skills
+- 🌱Atualmente estou cursando **Pós graduação em Ciências de Dados**
 
-Python 
+- 👯 também estou compartilhando meus projetos [Meu portefólio](https://meuportifolio92.webnode.page/)
 
-SQL
+- 💬 me pergunte sobre ? **Python, SQL, Excel, Power Bi**
 
-Power BI
+- 📫você me acha através do e-mail **weslei.moura.silva87@gmail.com**
 
-Machine Learning
- 
+- 📄 você pode me encontrar [https://www.linkedin.com/in/weslei-moura/](https://www.linkedin.com/in/weslei-moura/)
 
-<i class="devicon-python-plain-wordmark colored"></i>
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-          
-          
-          
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/weslei-moura/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/weslei-moura/" height="30" width="40" /></a>
+</p>
 
-          
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weslei87&show_icons=true&theme=radical)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+
+
 
